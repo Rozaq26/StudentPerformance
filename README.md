@@ -59,6 +59,9 @@ Dashboard tersebut memperlihatkan hubungan antara beberapa kolom dan tingkat atr
 
 Isi Dashboard
 <img src="https://github.com/Rozaq26/StudentPerformance/blob/main/Images/Dashboard.jpg" width="500">
+
+### Isi dashboard
+
 1. Gender Siswa (Pie Chart)
 
 - Definisi: Diagram lingkaran yang menunjukkan proporsi siswa berdasarkan jenis kelamin (Laki-laki/Male dan Perempuan/Female).
@@ -116,7 +119,7 @@ Pada proyek ini telah disediakan sebuah prototype untuk melakukan prediksi terha
         streamlit run Streamlit.py
     ```
 
-Atau buka [tautan](https://dicoding-menyelesaikanpermasalahaninstitusipendidikan-5v4ahztm.streamlit.app/) untuk membuka prototype yang sudah dijalankan pada streamlit community.
+Atau buka [tautan](https://studentperformance-nnbhehdnftnvcjw243nqs9.streamlit.app/) untuk membuka prototype yang sudah dijalankan pada streamlit community.
 
 <img src="https://github.com/Rozaq26/StudentPerformance/blob/main/Images/Streamlit.jpg" width="500">
 
@@ -129,13 +132,13 @@ Proyek ini dirancang untuk menjawab beberapa permasalahan utama yang dihadapi ol
 2. Faktor-faktor apa saja yang paling berpengaruh terhadap keputusan siswa untuk dropout?
     - Analisis korelasi dan pentingnya fitur dalam model prediktif menunjukkan bahwa beberapa faktor yang paling berpengaruh terhadap keputusan siswa untuk dropout antara lain latar belakang akademik (seperti nilai dan jumlah unit yang diambil) dan kondisi ekonomi (scholarship ataupun displaced) . Misalnya, siswa yang menghadapi kesulitan akademik dalam semester pertama atau kedua cenderung memiliki risiko lebih tinggi untuk dropout.
 
-    <img src="" width="500">
+    <img src="https://github.com/Rozaq26/StudentPerformance/blob/main/Images/korelasi.jpg" width="500">
     
 3. Apa yang dapat dilakukan untuk meningkatkan tingkat retensi siswa dan memastikan lebih banyak siswa menyelesaikan pendidikan mereka?
     - Berdasarkan temuan dari model dan analisis data, Jaya Jaya Institut dapat meningkatkan tingkat retensi siswa dengan beberapa strategi, seperti menyediakan bimbingan akademik yang lebih intensif, menyesuaikan kurikulum untuk mengurangi beban siswa, dan memberikan dukungan finansial tambahan kepada siswa yang membutuhkannya. Intervensi yang lebih dini dan berbasis data dapat membantu memastikan lebih banyak siswa menyelesaikan pendidikan mereka.
 
-### Rekomendasi Action Items
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
+### Action Items
+Berikan beberapa rekomendasi action items bisa dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 1. Implementasi Sistem Pemantauan Siswa Berbasis Data
     - Menerapkan model prediktif yang telah dibangun untuk memantau siswa secara berkala. Institusi dapat menggunakan sistem ini untuk mendeteksi siswa yang berisiko tinggi untuk dropout dan memberikan intervensi dini berupa bimbingan akademik atau dukungan lainnya.
 2. Pengembangan Program Dukungan Akademik dan Psikologis
