@@ -6,7 +6,7 @@ import numpy as np
 # Ensure the model and scaler files are in the 'model' directory
 # or update the path accordingly.
 try:
-    model = joblib.load('model/model.joblib')
+    model = joblib.load('model/Model.joblib')
     scaler = joblib.load('model/scaler.pkl')
 except FileNotFoundError:
     st.error("Model or scaler file not found. Please make sure 'model/model.joblib' and 'model/scaler.pkl' exist.")
