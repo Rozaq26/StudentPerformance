@@ -51,7 +51,7 @@ Sumber data: dataset yang digunakan merupakan dataset [Jaya Jaya Institut](https
 
 ## Business Dashboard
 
-Dashboard ini dirancang untuk menganalisis faktor-faktor penyebab mahasiswa dropout. Komponen utama dari dashboard ini meliputi ditampilkan dalam Looker Studio.
+Dashboard ini merupakan Dashboard Analitik Mahasiswa yang bertujuan untuk memvisualisasikan data terkait status akademik mahasiswa berdasarkan berbagai faktor seperti status pendaftaran, kelompok usia, jurusan, serta rata-rata nilai semester. Dashboard ini membantu institusi pendidikan dalam memantau performa mahasiswa dan mengidentifikasi potensi masalah seperti dropout.
 
 Tautan ke Dasbor Bisnis  [Disini](https://lookerstudio.google.com/reporting/771c284c-5455-46b3-bafa-f0169be891ef).
 
