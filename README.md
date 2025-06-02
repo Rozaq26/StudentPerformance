@@ -57,7 +57,6 @@ Tautan ke Dasbor Bisnis  [Disini](https://lookerstudio.google.com/reporting/771c
 
 Dashboard tersebut memperlihatkan hubungan antara beberapa kolom dan tingkat atrisi.
 
-Isi Dashboard
 <img src="https://github.com/Rozaq26/StudentPerformance/blob/main/Images/Dashboard.jpg" width="500">
 
 ### Isi dashboard
